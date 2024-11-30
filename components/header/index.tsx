@@ -4,15 +4,15 @@ export const AppHeader = () => {
   return (
     <header className="w-full flex flex-row justify-between items-center px-20 py-10">
       <section>
-        <h1 className="text-3xl font-bold">futsol</h1>
+        <h1 className="text-3xl tracking-[-1px] font-bold">futsol</h1>
       </section>
 
       <section className="flex gap-4 items-center">
-        <Button>Play</Button>
+        <Button className="text-md font-semibold">Play</Button>
 
-        <Button>About</Button>
+        <Button className="text-md font-semibold">About</Button>
 
-        <Button>Connect</Button>
+        <Button className="text-md font-semibold">Connect</Button>
       </section>
     </header>
   );

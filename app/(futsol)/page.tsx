@@ -1,5 +1,3 @@
-import { AppHeader } from "@/components/header";
-
 const Hero = () => {
   return (
     <section
@@ -32,7 +30,6 @@ const Hero = () => {
 export default function Home() {
   return (
     <main className="w-full max-w-[3xl] items-center  flex flex-col gap-10">
-      <AppHeader />
       <Hero />
     </main>
   );

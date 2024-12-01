@@ -1,3 +1,6 @@
 
 1:
 https://explorer.solana.com/tx/SyJtm1vo5AtEcAPi6acgU4VszTHptLh3Rb9QYCvTqzFPv2mzbRw5VTfQHcpEGsoAhMjPQ7MKGdNSJcz7i17xwhj?cluster=devnet
+
+2: (Escrow and distribute payout and winning decider methods added)
+https://explorer.solana.com/tx/2mg19JS4KQnR4Dvt6hC9p7e7XnhRhHFYugHW9J2dDLVD59dXJ2MqPvqq6CMSB1PPSpuc6z8gZ5kEp3Zc2m4QkqSV?cluster=devnet
